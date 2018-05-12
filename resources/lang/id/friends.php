@@ -32,5 +32,5 @@ return [
     'title' => 'Teman',
     'title_compact' => 'teman',
 
-    'too_many' => 'Batas teman tercapai.',
+    'too_many' => 'Batas jumlah teman maksimum telah tercapai.',
 ];
